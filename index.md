@@ -1,6 +1,6 @@
 # La Paella Express 
-###### Guillermo Calderon & Claudia Bruni
 ## Cocina Española
+##### Guillermo Calderon & Claudia Bruni
 
 You can use the [editor on GitHub](https://github.com/rodri981/rodri981.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
